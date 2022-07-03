@@ -2,9 +2,9 @@
 
 //
 
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
+//                              ZENX1 V2.0
 
-//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
+//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 ZENX1
 
 //
 
@@ -39,55 +39,55 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚']
+global.owner = ['Yassine 🧑‍🦯']
 
-global.premium = ['🖤Black Panther Bot🖤']
+global.premium = ['ZENX1 BOT']
 
-global.ownernomer = '+94741671668'
+global.ownernomer = '+212674874107'
 
-global.ownername = 'Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚'
+global.ownername = 'Yassine 🧑‍🦯'
 
-global.botname = '🖤Black Panther Bot🖤'
+global.botname = 'Yassine 🧑‍🦯'
 
-global.footer = '©Black panther🖤.'
+global.footer = '© ZENX1.'
 
-global.ig = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
+global.ig = 'https://instagram.com/7x8.q_'
 
-global.region = '*╚═══❖•ೋ° 𝙱𝚕𝚊𝚌𝚔 𝙿𝚊𝚗𝚝𝚑𝚎𝚛 𝙼𝙳  °ೋ•❖═══╝*'
+global.region = 'Morroco , Agadir'
 
-global.sc = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
+global.sc = '???'
 
-global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
+global.myweb = 'https://chat.whatsapp.com/JmXUEkiDeL72hXAGDLFXI3'
 
-global.packname = '🖤Black Panther Bot🖤'
+global.packname = 'Z E N X 1 🧑‍🦯'
 
-global.author = '🖤Black Panther Bot🖤'
+global.author = 'yassine 🧑‍🦯'
 
 global.sessionName = 'session'
 
-global.prefa = ['','!','.','❄','🖤','☃']
+global.prefa = ['','!','.',','💀','🗿']
 
 global.sp = '◈'
 
 global.mess = {
 
-    success: 'Done ✓🌹⃝⃘̉̉̉̉̉̉🧚',
+    success: 'Done ✓',
 
-    admin: 'This Feature Is Only For Admin!✾ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬✾➣',
+    admin: 'This Feature Is Only For Admin!',
 
-    botAdmin: 'Bot Must Be Admin First!❤️⃟✦⃝̮̮̮̯̯̯😌',
+    botAdmin: 'Bot Must Be Admin First!',
 
-    owner: 'This Feature Is Only For Owner😯⃟💦᭄᭄̊̊̊̊࿔!',
+    owner: 'This Feature Is Only For Owner',
 
-    group: 'Feature Used Only For Groups!😒⃝⃟ꦾ👌ꦿ',
+    group: 'Feature Used Only For Groups',
 
-    private: 'Features Used Only For Private Chat😯⃟💦᭄᭄̊̊̊̊࿔!',
+    private: 'Features Used Only For Private Chat',
 
-    bot: 'This Feature Is Only For Bot❤️⃝➤⃟̱̱̱̱̄̄̄̄😢',
+    bot: 'This Feature Is Only For Bot',
 
-    wait: 'Wait A minute...🦋⃝❉⃟࿔ꦿ',
+    wait: 'Wait A minute...',
 
-    error: 'Error! Maybe Api Key Is Expired🤔!',
+    error: 'Error! Maybe Api Key Is Expired!',
 
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 
